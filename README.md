@@ -1,2 +1,2 @@
 # Smartcare-AI--Prototype
-My third repository
+Modern healthcare AI prototype project created during AI Bootcamp
